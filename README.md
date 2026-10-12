@@ -5,10 +5,6 @@
 **Software Engineering student · University of Palestine**
 Learning frontend development, one project at a time.
 
-<a href="https://www.linkedin.com/in/mai-abuamsha-b497413a8">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="36" alt="LinkedIn">
-</a>
-
 </div>
 
 ---
@@ -42,4 +38,6 @@ Practice projects I built while learning frontend development.
 
 ## 📫 Contact
 
-[🔗 LinkedIn](https://www.linkedin.com/in/mai-abuamsha-b497413a8)
+<a href="https://www.linkedin.com/in/mai-abuamsha-b497413a8">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="36" alt="LinkedIn">
+</a>
