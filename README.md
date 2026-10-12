@@ -30,7 +30,7 @@ Practice projects I built while learning frontend development.
 | Project | What it is | Stack |
 |---|---|---|
 | 🌿 [Green-Haven](https://se-maiabuamsha.github.io/Green-Haven/) | Indoor plant shop | HTML, CSS, JS|
-| 🛒 [ecommerce-product-page](https://github.com/SE-MaiAbuAmsha/ecommerce-product-page) | Product page layout practice | CSS |
+| 🛒 [ecommerce-product-page](https://se-maiabuamsha.github.io/ecommerce-product-page/) | Product page layout practice | CSS |
 | 🧱 [grid-landing-page](https://github.com/SE-MaiAbuAmsha/grid-landing-page) | CSS Grid practice | HTML, CSS |
 
 ## 📚 Currently learning
