@@ -1,16 +1,16 @@
-## Hi there 👋
+# Mai Abu Amsha
+Software Engineering student at the University of Palestine.
 
-<!--
-**SE-MaiAbuAmsha/SE-MaiAbuAmsha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Currently learning
+- JavaScript (DOM, async)
+- React
+- Git & GitHub
 
-Here are some ideas to get you started:
+## Projects
+Practice projects I built while learning frontend development.
+- **Green-Haven**: indoor plant shop (HTML/CSS)
+- **ecommerce-product-page**: product page layout practice
+- **grid-landing-page**: CSS Grid practice
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+[www.linkedin.com/in/mai-abuamsha-b497413a8]
