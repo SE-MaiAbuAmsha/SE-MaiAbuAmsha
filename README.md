@@ -28,10 +28,11 @@ Learning frontend development, one project at a time.
 Practice projects I built while learning frontend development.
 
 | Project | What it is | Stack |
-|---|---|---|
+|---|---|---|---|
 | 🌿 [Green-Haven](https://se-maiabuamsha.github.io/Green-Haven/) | Indoor plant shop | HTML, CSS, JS|
 | 🛒 [ecommerce-product-page](https://se-maiabuamsha.github.io/ecommerce-product-page/) | Product page layout practice | CSS |
 | 🧱 [grid-landing-page](https://se-maiabuamsha.github.io/grid-landing-page/) | CSS Grid practice | HTML, CSS |
+|  [Simple-Animation](https://se-maiabuamsha.github.io/Simple-Animation/) | HTML, CSS |
 
 ## 📚 Currently learning
 
