@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Mai Abu Amsha
+# 👋 I am Mai Abu Amsha
 
 **Software Engineering student · University of Palestine**
 Learning frontend development, one project at a time.
