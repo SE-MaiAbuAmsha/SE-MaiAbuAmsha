@@ -8,7 +8,7 @@ Software Engineering student at the University of Palestine.
 
 ## Projects
 Practice projects I built while learning frontend development.
-- **Green-Haven**: indoor plant shop (HTML/CSS)
+- [**Green-Haven**](https://github.com/SE-MaiAbuAmsha/Green-Haven): indoor plant shop (HTML/CSS/JS)
 - **ecommerce-product-page**: product page layout practice
 - **grid-landing-page**: CSS Grid practice
 
