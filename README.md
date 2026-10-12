@@ -13,4 +13,4 @@ Practice projects I built while learning frontend development.
 - **grid-landing-page**: CSS Grid practice
 
 ## Contact
-[www.linkedin.com/in/mai-abuamsha-b497413a8]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mai-abuamsha-b497413a8)
