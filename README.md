@@ -13,4 +13,6 @@ Practice projects I built while learning frontend development.
 - **grid-landing-page**: CSS Grid practice
 
 ## Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mai-abuamsha-b497413a8)
+<a href="https://www.linkedin.com/in/mai-abuamsha-b497413a8">
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="32" alt="LinkedIn">
+</a>
